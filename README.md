@@ -1,24 +1,18 @@
-# 👋 Hi, I'm Kush (@Kush031898)
+# 👋 Hi, I'm Kush Mantoo
 
 ### 🎓 3rd Year Engineering Student @ VIT Pune | Aspiring Full-Stack Developer & SDE
 
-I am a passionate software engineer focused on building intelligent web applications and mastering competitive programming. Currently specializing in the **MERN Stack** and **Multimodal AI** integration.
+I am a passionate software engineer focused on building intelligent web applications and mastering competitive programming. Currently specializing in the **MERN Stack** and **Multimodal AI** integration.Also Love contributing to open source projects and collaborating with others.
 
 ---
 
-### 🚀 Featured Project: StudySync AI
-**[Full-Stack MERN + Gemini AI]**
-- Developed an automated lecture analysis tool that generates summaries and hard-difficulty quizzes from video/audio.
-- Built a non-blocking asynchronous pipeline with background workers and status-polling architecture.
-- **Tech:** React, Node.js, MongoDB, Gemini 1.5 Flash, Cloudinary.
 
----
 
 ### 🛠️ Languages and Tools
 
 #### **Languages**
 <p align="left">
-  <a href="https://www.oracle.com/java/"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" /></a>
+
   <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></a>
   <a href="https://en.cppreference.com/w/c"><img src="https://img.shields.io/badge/C-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=black" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /></a>
@@ -65,7 +59,6 @@ I am a passionate software engineer focused on building intelligent web applicat
 ---
 
 ### 🏆 Achievements & Goals
-- **LeetCode:** Current Rating: **1600+** | Goal: **2000+**
 - **Academics:** Maintaining a **8.45 CGPA** at VIT Pune.
 - **Experience:** Completed internships at **Arkcore** and **Eduplus**.
 
@@ -73,7 +66,4 @@ I am a passionate software engineer focused on building intelligent web applicat
 - **Email:** kushmantoo495@gmail.com
 - **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
 
----
-<p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
-</p>
+
