@@ -18,17 +18,15 @@ I am a passionate software engineer focused on building intelligent web applicat
 
 #### **Languages**
 <p align="left">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 </p>
 
 #### **Technologies & Frameworks**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,express,mongodb,docker,kubernetes,git,linux,arduino" />
+    <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,express,mongodb,docker,git,linux,arduino" />
   </a>
 </p>
 
@@ -47,7 +45,6 @@ I am a passionate software engineer focused on building intelligent web applicat
 ---
 
 ### 🏆 Achievements & Goals
-- **LeetCode:** Current Rating: **1600+** | Goal: **2000+**
 - **Academics:** Maintaining a **8.45 CGPA** at VIT Pune.
 - **Experience:** Completed internships at **Arkcore** and **Eduplus**.
 
@@ -55,7 +52,4 @@ I am a passionate software engineer focused on building intelligent web applicat
 - **Email:** kushmantoo495@gmail.com
 - **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
 
----
-<p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
-</p>
+
