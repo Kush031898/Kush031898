@@ -8,7 +8,7 @@ I am a full-stack developer and competitive programmer focused on building scala
 
 ### 🛠️ Tech Stack & Skills
 
-- **Languages:** C++, JavaScript (ES6+), Java, SQL
+- **Languages:** C++, JavaScript (ES6+), SQL
 - **Frontend:** React.js, Tailwind CSS, Framer Motion, HTML5/CSS3
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB (Mongoose), MySQL
@@ -24,8 +24,6 @@ I am a full-stack developer and competitive programmer focused on building scala
 ---
 
 ### 📊 Professional Stats
-
-- **LeetCode:** 1600+ Rating (Targeting 2000+)
 - **Academic Performance:** 8.45 CGPA
 - **Experience:** Software Development Internships at Arkcore and Eduplus.
 
