@@ -1,48 +1,61 @@
 # 👋 Hi, I'm Kush (@Kush031898)
 
-### 🎓 3rd Year Engineering Student @ VIT Pune | Aspiring Software Development Engineer (SDE)
+### 🎓 3rd Year Engineering Student @ VIT Pune | Aspiring Full-Stack Developer & SDE
 
-I am a full-stack developer and competitive programmer focused on building scalable web applications and solving complex algorithmic challenges. Currently optimizing my skills in the MERN stack and deep-diving into Data Structures & Algorithms.
-
----
-
-### 🛠️ Tech Stack & Skills
-
-- **Languages:** C++, JavaScript (ES6+), SQL
-- **Frontend:** React.js, Tailwind CSS, Framer Motion, HTML5/CSS3
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB (Mongoose), MySQL
-- **Tools & Platforms:** Git/GitHub, Cloudinary, Gemini AI API, Google Cloud Arcade
+I am a passionate software engineer focused on building intelligent web applications and mastering competitive programming. Currently specializing in the **MERN Stack** and **Multimodal AI** integration.
 
 ---
 
-### 🏗️ Featured Projects
-
-- **StudySync AI:** A full-stack MERN application that uses Gemini 1.5 Flash to generate summaries, transcripts, and high-difficulty quizzes from lecture videos. Implemented a non-blocking async pipeline with status polling.
-- **Lecture Summarizer:** Integrated multimodal AI with Cloudinary storage to automate academic note-taking.
-
----
-
-### 📊 Professional Stats
-- **Academic Performance:** 8.45 CGPA
-- **Experience:** Software Development Internships at Arkcore and Eduplus.
+### 🚀 Featured Project: StudySync AI
+**[Full-Stack MERN + Gemini AI]**
+- Developed an automated lecture analysis tool that generates summaries and hard-difficulty quizzes from video/audio.
+- Built a non-blocking asynchronous pipeline with background workers and status-polling architecture.
+- **Tech:** React, Node.js, MongoDB, Gemini 1.5 Flash, Cloudinary.
 
 ---
 
-### 📫 Let's Connect!
+### 🛠️ Languages and Tools
 
-- **Email:** kushmantoo495@gmail.com
-- **LinkedIn:** https://www.linkedin.com/feed/
+#### **Languages**
+<p align="left">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+</p>
+
+#### **Technologies & Frameworks**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,express,mongodb,docker,kubernetes,git,linux,arduino" />
+  </a>
+</p>
 
 ---
 
-
+### 📊 GitHub Statistics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kush031898&layout=compact&theme=tokyonight" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kush031898&show_icons=true&theme=tokyonight" alt="Kush's GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kush031898&theme=tokyonight" alt="GitHub Streak" />
 </p>
-<!---
-Kush031898/Kush031898 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+---
+
+### 🏆 Achievements & Goals
+- **LeetCode:** Current Rating: **1600+** | Goal: **2000+**
+- **Academics:** Maintaining a **8.45 CGPA** at VIT Pune.
+- **Experience:** Completed internships at **Arkcore** and **Eduplus**.
+
+### 📫 Let's Connect
+- **Email:** kushmantoo495@gmail.com
+- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+
+---
+<p align="center">
+  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
+</p>
