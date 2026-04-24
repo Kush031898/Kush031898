@@ -58,8 +58,7 @@ I am a passionate software engineer focused on building intelligent web applicat
 
 ---
 
-### 🏆 Achievements & Goals
-- **Academics:** Maintaining a **8.45 CGPA** at VIT Pune.
+
 - **Experience:** Completed internships at **Arkcore** and **Eduplus**.
 
 ### 📫 Let's Connect
